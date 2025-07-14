@@ -1,0 +1,6 @@
+tesseract-ocr
+libtesseract-dev
+pytesseract
+Pillow
+easyocr
+boto3
